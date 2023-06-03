@@ -1,3 +1,4 @@
 echo "My name  Ramesh"
 Echo "name correct ?"
-my name 
+for i in 10:
+  echo "i"
